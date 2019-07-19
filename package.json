@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "run": "node --experimental-modules --harmony index.mjs"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
